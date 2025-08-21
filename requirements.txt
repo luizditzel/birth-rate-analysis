@@ -1,0 +1,9 @@
+
+pandas
+pandas-datareader
+matplotlib
+statsmodels
+prophet
+wbdata
+streamlit
+scikit-learn
